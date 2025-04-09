@@ -2,6 +2,7 @@ from argparse import ArgumentParser
 import open3d as o3d
 import numpy as np
 import os
+import
 
 # from https://github.com/intel-isl/Open3D/blob/master/examples/Python/Advanced/load_save_viewpoint.py
 if __name__ == "__main__":
